@@ -47,10 +47,4 @@ Loyihani o‘z kompyuteringizda ishga tushirish uchun quyidagi bosqichlarni baja
 * **Sizning Ismingiz** – [@javlonbeksaidov-developer](https://github.com/javlonbeksaidov-developer)
 
 ---
-
-## 📄 Litsenziya
-
-Ushbu loyiha [MIT](LICENSE) litsenziyasi ostida ochiq manba hisoblanadi. Undan bemalol foydalanishingiz va rivojlantirishingiz mumkin.
-
----
 ❤️ **Barcha ayol-qizlarimizni 8-mart bayrami bilan tabriklayman!**
