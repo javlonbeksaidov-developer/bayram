@@ -29,8 +29,7 @@ Loyihani o‘z kompyuteringizda ishga tushirish uchun quyidagi bosqichlarni baja
 
 1.  **Repozitoriyani yuklab oling (Clone):**
     ```bash
-    git clone [https://github.com/javlonbeksaidov-developer/bayram.git](https://github.com/javlonbeksaidov-developer/bayram.git)
-    ```
+    git clone [https://github.com/javlonbeksaidov-developer/bayram.git]
 
 2.  **Loyiha papkasiga kiring:**
     ```bash
