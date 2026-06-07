@@ -39,6 +39,7 @@ Loyihani o‘z kompyuteringizda ishga tushirish uchun quyidagi bosqichlarni baja
 3.  **Saytni oching:**
     `index.html` faylini istalgan brauzerda (Chrome, Firefox, Safari) oching.
 
+    Online ko'rish: bayram-iota.vercel.app
 ---
 
 ## ✍️ Muallif
