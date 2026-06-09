@@ -1,4 +1,4 @@
-# 🎉 8-Mart Xalqaro Xotin-Qizlar Bayrami Tabrik Sayti
+# 🎉 8-mart "Xalqaro xotin-qizlar" bayrami tabrik sayti
 
 Ushbu loyiha 8-mart – Xalqaro xotin-qizlar bayrami munosabati bilan barcha onajonlarimiz, opasingillarimiz va ayollarimizni tabriklash uchun yaratilgan maxsus interaktiv tabrik sahifasidir. Sayt zamonaviy dizayn, chiroyli animatsiyalar va samimiy tilaklar bilan boyitilgan.
 
@@ -14,7 +14,7 @@ Loyiha quyidagi texnologiyalar yordamida mutlaqo sodda va tushunarli tarzda yara
 
 ---
 
-## ✨ Imkoniyatlar va Hususiyatlar
+## ✨ Imkoniyatlar va xususiyatlar
 
 * 📱 **To‘liq Moslashuvchan (Responsive):** Telefon, planshet va kompyuter ekranlarida birdek chiroyli ko‘rinadi.
 * 🌸 **Bayramona Dizayn:** Bahor nafasi va gullar bilan bezatilgan interfeys.
@@ -23,7 +23,7 @@ Loyiha quyidagi texnologiyalar yordamida mutlaqo sodda va tushunarli tarzda yara
 
 ---
 
-## 🛠️ Loyihani Ishga Tushirish
+## 🛠️ Loyihani ishga tushirish
 
 Loyihani o‘z kompyuteringizda ishga tushirish uchun quyidagi bosqichlarni bajaring:
 
@@ -41,7 +41,7 @@ Loyihani o‘z kompyuteringizda ishga tushirish uchun quyidagi bosqichlarni baja
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live demo
 
 👉 [Open Website](https://bayram-iota.vercel.app)
 
